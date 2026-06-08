@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the link below with your Canva banner URL -->
-  <img src="https://via.placeholder.com/1500x500/1a1a1a/ffffff?text=Daniel+Salazar+Rodriguez+-+Music+%26+Code" alt="Profile Banner" />
+  <img src="https://github.com/danielsalazar0/danielsalazar0/blob/main/Dark%20Tech%20Developer%20Profile%20Banner.png?raw=true" />
 </p>
 
 Hello!👋 My name is **Daniel Salazar Rodriguez**. I'm a **Music Informatics** student at the University of Milan (UniMi) and, concurrently, an independent music producer and beatmaker. 🎹
@@ -30,22 +30,22 @@ Audio Signal Processing | Music Production | Beatmaking | Software Development
 
 <p align="left">
   <!-- Replace '#' with your actual links -->
-  <a href="mailto:tua.email@gmail.com">
+  <a href="mailto:danielsalazarr2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/daniel-salazar-rodriguez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="https://github.com/danielsalazar0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
+  <a href="https://instagram.com/daniel.salazarr_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="#">
+  <a href="https://open.spotify.com/intl-it/artist/4aBXwi2IwCifIGRWskrAVx?si=56f6198d70d048df">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-  <a href="#">
+  <a href="https://www.youtube.com/@eldanimvsic">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
